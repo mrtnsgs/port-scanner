@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python3
 
 from distutils.log import error
 import sys
